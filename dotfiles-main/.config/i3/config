@@ -263,7 +263,7 @@ bindsym $mod+Shift+n move workspace to output left
 bindsym $mod+Shift+m move workspace to output right
 
 # Monitors set from arandr
-exec /home/golf/.screenlayout/default.sh
+exec /home/melike/.screenlayout/default.sh
 
 # Dunst
 bindsym $mod+z exec dunstctl context
